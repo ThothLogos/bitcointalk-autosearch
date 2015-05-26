@@ -1,0 +1,14 @@
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\MintBot.exe.config
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\chromedriver.exe
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\MintBot.exe
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\MintBot.pdb
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\WebDriver.dll
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\WebDriver.Support.dll
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\WebDriver.xml
+F:\Visual Studio 2013\Projects\MintBot\MintBot\bin\Debug\WebDriver.Support.xml
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.Form1.resources
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.exe
+F:\Visual Studio 2013\Projects\MintBot\MintBot\obj\Debug\MintBot.pdb
